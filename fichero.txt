@@ -1,7 +1,5 @@
 Este es el fichero con los nombres
-<<<<<<< HEAD
-Gonzalo Serrano Gonzalez
-=======
 
+Gonzalo Serrano Gonzalez
 Yoel Castillo Montero
->>>>>>> origin/master
+
